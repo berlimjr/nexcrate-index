@@ -1,0 +1,12 @@
+[registry]
+index = "sparse+https://crates-production.up.railway.app/api/v1/crates/"
+token = "dwC5yrIjuqYr01s8Q2lRg0WTgYn"
+
+[storage]
+path = "storage"
+
+[docs]
+path = "docs"
+
+[server]
+port = 9999

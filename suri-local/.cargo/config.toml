@@ -1,0 +1,5 @@
+[registries]
+nexcode = { index = "sparse+https://crates-production.up.railway.app/api/v1/crates/", token = "95b762efc0ee10119c5d71125150f8e4" }
+
+[registry]
+global-credential-providers = ["cargo:token"]
